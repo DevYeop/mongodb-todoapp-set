@@ -1,0 +1,6 @@
+rootProject.name = 'mongdo-todoapp'
+include ':mylib'
+project(':mylib').projectDir = new File('..\\ScoulaCli\\scoulacli')
+
+
+
